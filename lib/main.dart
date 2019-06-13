@@ -18,7 +18,7 @@ void main() => runApp(MaterialApp(
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://www.yosemite.com/wp-content/uploads/2019/03/places-to-stay-tablet-768x450.jpg')
+            image: AssetImage('images/diamond.png')
           ),
         ),
       ),
