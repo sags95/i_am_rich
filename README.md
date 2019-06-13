@@ -1,16 +1,6 @@
-# i_am_rich
+# I am rich
 
-A new Flutter application.
+A simple flutter app that displays a nice looking diamond on your display. This was meant as a test, so that's pretty much all there is. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Install instructions
+You'll have to clone and build this app locally to test it at this time. For this you'll need the Flutter SDK, along with either the latest Android SDK or IOS SDK.
